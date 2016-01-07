@@ -9,7 +9,7 @@ Redis standalone caching library for Node.JS and also cache engine for [cacheman
 
 ``` bash
 $ npm install cacheman-redis
-$ npm install git://github.com/cjy37/cacheman-redis#1.1.3 --save
+$ npm install git://github.com/cjy37/cacheman-redis --save
 ```
 
 ## Usage
